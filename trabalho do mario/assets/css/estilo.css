@@ -1,0 +1,42 @@
+#banner{
+    width: 350px;
+    left: auto;
+    right: auto;
+}
+
+body {
+    background-color: rgb(58, 173, 250);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#tabela {
+    background-color: rgb(0, 71, 138);
+    margin-left: 780px;
+    margin-right: 890px;
+    height: auto;
+    width: auto;
+}
+
+#login {
+    background-color: rgb(17, 177, 17);
+    width: 175px;
+    height: 30px;
+}
+
+h5 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+}
+
+#cancelar {
+    background-color: red;
+    width: 175px;
+    height: 30px;
+}
+
+#link {
+    color: white;
+    margin-left: 1px;
+}
